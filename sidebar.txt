@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[zhi:home|Door43 (zhi)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-zhi|d43-zhi repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-zhi/archive/master.zip|d43-zhi.zip]]
+
+**Recent Changes**
+{{changes>ns = zhi}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/zhi|Ethnologue data]]
+
